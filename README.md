@@ -176,4 +176,4 @@ Pull requests are always welcome.
 
 ## Continuous Integration
 
-[![Build Status](https://travis-ci.org/bazaarvoice/jersey-hmac-auth.png?branch=master)](https://travis-ci.org/bazaarvoice/jersey-hmac-auth)
+[![Build Status](https://travis-ci.org/edmunds/jersey-hmac-auth.png?branch=master)](https://travis-ci.org/edmunds/jersey-hmac-auth)
